@@ -5,5 +5,6 @@ module.exports = {
     'no-undef': 0,
     'no-plusplus': 0,
     'no-bitwise': 0,
+    'consistent-return': 0,
   },
 };
